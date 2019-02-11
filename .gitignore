@@ -1,0 +1,5 @@
+node_modules
+dist
+log.txt
+dev-app-update.yml
+electron-builder.yml
