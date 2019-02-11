@@ -1,0 +1,3 @@
+..\\app.asar.unpacked\\scripts\\windows.ps1
+previous electron-builder:19.20.1
+previous electron-updater:3.1.2

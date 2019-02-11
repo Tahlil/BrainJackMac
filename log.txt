@@ -1,0 +1,48 @@
+[2019-02-10 17:36:03.075] [warn] logging
+[2019-02-10 17:40:42.786] [warn] logging
+[2019-02-10 17:42:22.231] [warn] logging
+[2019-02-10 17:49:55.066] [warn] logging
+[2019-02-10 18:23:48.768] [warn] logging
+[2019-02-10 18:29:36.795] [warn] logging
+[2019-02-10 18:36:41.282] [warn] logging
+[2019-02-10 18:42:25.362] [warn] logging
+[2019-02-10 18:46:00.340] [warn] logging
+[2019-02-10 18:51:13.145] [error] an error happened(most because of ipc call):/Users/tahlil/Downloads/BrainJack/brainJackLast/scripts/mac.scpt:392:403: 
+[2019-02-10 18:51:13.152] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-10 18:51:14.361] [error] an error happened(most because of ipc call):/Users/tahlil/Downloads/BrainJack/brainJackLast/scripts/mac.scpt:392:403: 
+[2019-02-10 18:51:14.362] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-10 18:51:15.515] [error] an error happened(most because of ipc call):/Users/tahlil/Downloads/BrainJack/brainJackLast/scripts/mac.scpt:392:403: 
+[2019-02-10 18:51:15.516] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-10 18:51:16.662] [error] an error happened(most because of ipc call):/Users/tahlil/Downloads/BrainJack/brainJackLast/scripts/mac.scpt:392:403: 
+[2019-02-10 18:51:16.663] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-10 19:13:04.472] [error] an error happened(most because of ipc call):/Users/tahlil/Downloads/BrainJack/brainJackLast/scripts/mac.scpt:392:403: 
+[2019-02-10 19:13:04.473] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-10 19:13:05.676] [error] an error happened(most because of ipc call):/Users/tahlil/Downloads/BrainJack/brainJackLast/scripts/mac.scpt:392:403: 
+[2019-02-10 19:13:05.678] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-10 19:26:00.204] [warn] logging
+[2019-02-10 19:32:21.326] [warn] logging
+[2019-02-10 19:35:19.810] [warn] logging
+[2019-02-10 19:38:45.813] [warn] logging
+[2019-02-11 09:42:27.555] [warn] logging
+[2019-02-11 09:48:46.582] [warn] logging
+[2019-02-11 09:51:04.659] [warn] logging
+[2019-02-11 09:56:20.408] [warn] logging
+[2019-02-11 10:00:46.012] [warn] logging
+[2019-02-11 10:01:34.125] [warn] logging
+[2019-02-11 10:06:53.151] [warn] logging
+[2019-02-11 10:09:47.665] [warn] logging
+[2019-02-11 10:11:49.553] [warn] logging
+[2019-02-11 10:13:24.906] [warn] logging
+[2019-02-11 10:14:58.771] [warn] logging
+[2019-02-11 10:18:04.696] [warn] logging
+[2019-02-11 10:19:45.844] [warn] logging
+[2019-02-11 10:22:11.717] [warn] logging
+[2019-02-11 10:23:42.799] [warn] logging
+[2019-02-11 10:24:57.213] [warn] logging
+[2019-02-11 10:26:08.887] [warn] logging
