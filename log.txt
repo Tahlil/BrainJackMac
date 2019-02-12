@@ -46,3 +46,349 @@
 [2019-02-11 10:23:42.799] [warn] logging
 [2019-02-11 10:24:57.213] [warn] logging
 [2019-02-11 10:26:08.887] [warn] logging
+[2019-02-11 17:08:58.451] [warn] logging
+[2019-02-11 17:16:08.137] [warn] logging
+[2019-02-11 17:20:59.242] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:20:59.243] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:00.440] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:00.441] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:01.647] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:01.648] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:02.893] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:02.896] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:04.118] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:04.120] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:05.323] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:05.325] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:06.524] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:06.526] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:07.742] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:07.744] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:17.590] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:17.591] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:18.837] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:18.838] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:20.070] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:20.072] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:21.273] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:21.274] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:43.788] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:43.789] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:21:44.998] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:21:44.999] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:30.788] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:30.789] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:32.001] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:32.002] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:33.218] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:33.220] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:34.452] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:34.453] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:35.681] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:35.682] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:36.894] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:36.895] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:38.127] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:38.128] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:39.324] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:39.325] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:40.578] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:40.580] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:41.803] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:41.804] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:43.015] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:43.016] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:44.245] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:44.247] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:45.440] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:45.441] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:46.633] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:46.635] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:47.827] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:47.828] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:49.075] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:49.076] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:50.281] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:50.281] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:51.473] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:51.474] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:52.707] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:52.709] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:53.914] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:53.914] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:55.101] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:55.102] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:56.320] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:56.321] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:57.515] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:57.517] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:58.709] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:58.710] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:23:59.913] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:23:59.914] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:01.110] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:01.111] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:02.310] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:02.311] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:03.528] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:03.531] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:04.723] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:04.724] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:05.914] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:05.915] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:07.113] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:07.114] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:08.313] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:08.314] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:09.505] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:09.506] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:10.733] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:10.734] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:11.931] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:11.932] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:13.129] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:13.131] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:14.357] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:14.358] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:15.588] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:15.589] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:16.780] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:16.781] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:18.009] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:18.010] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:19.235] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:19.238] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:20.463] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:20.464] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:21.676] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:21.677] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:22.883] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:22.884] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:24.102] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:24.103] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:25.311] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:25.312] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:26.522] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:26.523] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:27.757] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:27.759] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:28.987] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:28.989] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:30.179] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:30.182] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:31.399] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:31.400] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:32.603] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:32.604] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:33.819] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:33.821] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:35.013] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:35.014] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:36.224] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:36.226] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:37.426] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:37.427] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:38.622] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:38.623] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:39.834] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:39.835] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:41.048] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:41.050] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:42.257] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:42.258] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:43.455] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:43.456] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:24:44.662] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:24:44.663] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:37.042] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:37.043] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:38.237] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:38.238] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:39.440] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:39.441] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:40.635] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:40.636] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:41.863] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:41.863] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:43.068] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:43.069] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:44.277] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:44.278] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:45.470] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:45.471] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:46.687] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:46.687] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:47.877] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:47.878] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:25:49.082] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:25:49.083] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:03.981] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:03.982] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:05.182] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:05.183] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:06.377] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:06.378] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:07.578] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:07.579] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:08.827] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:08.828] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:21.032] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:21.033] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:22.227] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:22.228] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:23.474] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:23.475] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:24.678] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:24.679] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:25.897] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:25.897] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:27.088] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:27.089] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:28.290] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:28.292] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:29.496] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:29.497] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:30.739] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:30.740] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:31.977] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:31.978] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:33.180] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:33.180] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:34.408] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:34.409] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:35.598] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:35.599] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:36.821] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:36.823] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:38.012] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:38.014] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:39.218] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:39.219] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:40.513] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:40.516] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:41.727] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:41.728] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:42.928] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:42.929] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 17:26:44.130] [error] an error happened(most because of ipc call):/Users/brainjack/Desktop/BrainJackMac/scripts/mac.scpt:392:403: 
+[2019-02-11 17:26:44.131] [error] an error happened(most because of ipc call):execution error: The variable window_name is not defined. (-2753)
+
+[2019-02-11 18:29:47.024] [warn] logging
+[2019-02-11 18:31:19.945] [warn] logging
+[2019-02-11 23:22:43.460] [warn] logging
+[2019-02-12 09:38:27.699] [warn] logging
+[2019-02-12 09:44:17.626] [warn] logging
+[2019-02-12 09:53:35.211] [warn] logging
+[2019-02-12 11:17:25.889] [warn] logging
+[2019-02-12 11:47:22.148] [warn] logging

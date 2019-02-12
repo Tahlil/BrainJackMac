@@ -33,11 +33,11 @@ module.exports = class ActivityTracker {
     }
 
     isBrowser(appName) {
-        return appName === "Google Chrome" || appName === "firefox" || appName === "opera" || appName === "torch" || appName === "Safari" || appName === "seamonkey" || appName === "vivaldi" || appName === "maxthon" || appName === "";
+        return appName === "Google Chrome" || appName === "Google" || appName === "firefox" || appName === "opera" || appName === "torch" || appName === "Safari" || appName === "seamonkey" || appName === "vivaldi" || appName === "maxthon" || appName === "";
     }
 
     getLatestURLS(browserName) {
-        if (browserName === "Google Chrome") {
+        if (browserName === "Google Chrome" || browserName === "Google") {
             console.log("Chrome tab clicked");
             return browserHistory.getChromeHistory(10);
         } else if (browserName === "firefox") {
@@ -164,8 +164,8 @@ module.exports = class ActivityTracker {
             // eliminate "application process" prefix from active window name
             userActivity.appData.app = userActivity.appData.app.split(" ")[2]; 
         }
-        console.log("APp name:");
-        console.log(userActivity.appData.app);
+        console.log("App:");
+        console.log(userActivity.appData);
         
         // userActivity.date = this.getDateTime(new Date(),'dateonly');
         if (this.isBrowser(userActivity.appData.app)) {

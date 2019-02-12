@@ -109,6 +109,7 @@ function getChromeBasedBrowserRecords(paths, browserName, historyTimeLength) {
             url: temp[1] + temp[2],
             time: moment(row.last_visit_time / 1000).format("MMM DD, YYYY")
           });
+          console.log("Title: " + row.title);
         }
         // console.log("One set done");
       }
@@ -222,27 +223,27 @@ function getSafariBasedBrowserRecords(paths, browserName, historyTimeLength) {
         });
         
         db.prepare("PRAGMA wal_checkpoint(FULL)").run();
-        const rows = db.prepare("SELECT * FROM history_visits, history_items ORDER by id DESC limit 10;").all();
-        console.log(rows);
+        // const rows = db.prepare("SELECT * FROM history_visits, history_items ORDER by id DESC limit 10;").all();
+        // console.log(rows);
         
-        // const rows = db
-        //   .prepare(
-        //     "SELECT i.id, i.url, v.title, v.visit_time FROM history_items i INNER JOIN history_visits v on i.id = v.history_item"
-        //   )
-        //   .all();
+        const rows = db
+          .prepare(
+            "SELECT i.id, i.url, v.title, v.visit_time FROM history_items i INNER JOIN history_visits v on i.id = v.history_item"
+          )
+          .all();
         
         
-        // for (let row of rows) {
-        //   if(row.url.split(':')[0] === "http" || row.url.split(':')[0] === "https"){
-        //     let temp = row.url.split('/');
-        //     browserHistory.push({
-        //       title: row.title,
-        //       url: temp[1]+ temp[2],
-        //       time: moment(row.visit_time/1000).format('MMM DD, YYYY')
-        //     });
-        //     console.log(row.title);
-        //   }
-        // }
+        for (let row of rows) {
+          if(row.url.split(':')[0] === "http" || row.url.split(':')[0] === "https"){
+            let temp = row.url.split('/');
+            browserHistory.push({
+              title: row.title,
+              url: temp[1]+ temp[2],
+              time: moment(row.visit_time/1000).format('MMM DD, YYYY')
+            });
+            console.log("Title: " + row.title);
+          }
+        }
 
         console.log("Finished reding.");
       }

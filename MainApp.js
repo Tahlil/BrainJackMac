@@ -15,6 +15,9 @@ module.exports = class MainApp {
     this.isRunningAsAdmin;
     this.isDebug = true;
     this.iconPath = path.join(__dirname, 'Brain Jack.png');
+    if (process.platform === "darwin") {
+      this.iconPath = path.join(__dirname, 'macIcon.png');  
+    }
     this.flags = {
       isFromSystemTrayClose: false
     }
@@ -52,7 +55,7 @@ module.exports = class MainApp {
   }
 
   mainWindowSetUp() {
-    this._mainWindow = new BrowserWindow({icon: path.join(__dirname, 'macIcon.png')});
+    this._mainWindow = new BrowserWindow();
     this._mainWindow.maximize();
     this._mainWindow.loadURL(config.webAppUrl);
     this._mainWindow.setMenu(null);
