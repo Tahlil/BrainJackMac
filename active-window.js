@@ -35,6 +35,7 @@ exports.getActiveWindow = function(callback,repeats,interval){
 
   //Obtain successful response from script
   ls.stdout.on('data', function(stdout){
+    console.log(stdout.toString());
     callback(reponseTreatment(stdout.toString()));
   });
 
@@ -53,7 +54,6 @@ exports.end = function(){
   }
 }
 
-
 /**
 * Treat and format the response string and put it into a object
 * @function reponseTreatment
@@ -63,7 +63,7 @@ function reponseTreatment(response){
   window = {};
   if(process.platform == 'linux'){
     response = response.replace(/(WM_CLASS|WM_NAME)(\(\w+\)\s=\s)/g,'').split("\n",2);
-    window.app = response[0];
+    window.app = response[0].split("\"")[3];
     window.title = response[1];
   }else if (process.platform == 'win32'){
     response = response.replace(/(@{ProcessName=| AppTitle=| Product=| StartTime=| CPU=| Company=| Path=)/g,'').slice(0,-1).split(';',7);
